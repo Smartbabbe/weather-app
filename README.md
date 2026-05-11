@@ -47,8 +47,8 @@ proud of.
 ## Getting Started
 
 ```bash
-git clone https://github.com/Smartbabbe/[weather-app]
-cd [weather-app]
+git clone https://github.com/Smartbabbe/weather-app
+cd weather-app
 npm install
 ```
 
